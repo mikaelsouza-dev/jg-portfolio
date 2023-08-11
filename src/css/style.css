@@ -644,6 +644,11 @@ b, strong {
   transition: 0.8s ease-out;
 }
 
+.work-items .item video {
+  width: 80%;
+  transition: 0.8s ease-out;
+}
+
 .work-items .overlay{
   position: absolute;
   top: 50%;
